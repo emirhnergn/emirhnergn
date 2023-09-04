@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img style="margin:auto" src="https://github-readme-stats.vercel.app/api?username=emirhnergn&show_icons=true&locale=en&theme=radical" alt="emirhnergn" /></p>
 
-<p><img style="margin:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhnergn&" alt="emirhnergn&theme=radical" /></p>
+<p><img style="margin:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhnergn&theme=radical" alt="emirhnergn" /></p>
 
 <h3 align="center">Contribution Eater 🐍</h3>
 
