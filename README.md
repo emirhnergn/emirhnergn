@@ -22,5 +22,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emirhnergn&" alt="emirhnergn" /></p>
 
+<h3 align="center">Contribution Eater 🐍</h3>
+
 ![](https://raw.githubusercontent.com/emirhnergn/emirhnergn/output/github-contribution-grid-snake.svg)
 
