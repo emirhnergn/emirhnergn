@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **UE5**
 
 - 📫 How to reach me **ergin.emirhan@gmail.com**
 
